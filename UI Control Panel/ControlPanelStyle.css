@@ -1,0 +1,36 @@
+body {
+	background-image: url(panel1.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.button input[type="submit"] {
+	border-none;
+	background: white;
+	outline: none;
+	height: 70px;
+	width: 105px;
+	color: black;
+	font-size: 18.5px;
+	border-radius: 20px;
+	margin: 7px;
+}
+
+	.button input[type="submit"]:hover {
+		cursor: pointer;
+		background: orange;
+		color: #000;
+	}
+
+.button1 input[type="submit"] {
+	margin-top: 150px;
+	margin-left: 540px;
+}
+
+.button2 input[type="submit"] {
+	margin-left: 540px;
+}
+
+.button3 input[type="submit"] {
+	margin-left: 380px;
+}
