@@ -1,0 +1,69 @@
+body {
+	background-image: url(background.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+p {
+	color: white;
+	font-size: 30px;
+	font-family: Arail;
+	background: #00001a;
+	-ms-filter: rogid:DXImageTransform.Microsoft.Alpha(Opacity=50)";       /* IE 8 */ filter: alpha(opacity=50); /* IE 5-7 */
+	-moz-opacity: 0.5; /* Netscape */
+	-khtml-opacity: 0.5; /* Safari 1.x */
+	opacity: 0.6;
+	height: 40px;
+	width: 135px;
+	border-radius: 50;
+}
+
+
+.button input[type="submit"] {
+	border-none;
+	background: white;
+	outline: none;
+	height: 70px;
+	width: 105px;
+	color: black;
+	font-size: 18.5px;
+	border-radius: 20px;
+	margin: 7px;
+}
+
+	.button input[type="submit"]:hover {
+		cursor: pointer;
+		background: orange;
+		color: #000;
+	}
+
+.button1 input[type="submit"] {
+	margin-top: 150px;
+	margin-left: 540px;
+}
+
+.button2 input[type="submit"] {
+	margin-left: 540px;
+}
+
+.button3 input[type="submit"] {
+	margin-left: 380px;
+}
+
+button {
+	border-none;
+	background: white;
+	outline: none;
+	height: 40px;
+	width: 100px;
+	color: black;
+	font-size: 18.5px;
+	border-radius: 20px;
+	margin: 7px;
+}
+
+	button:hover {
+		cursor: pointer;
+		background: orange;
+		color: #000;
+	}
