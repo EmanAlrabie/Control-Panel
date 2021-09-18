@@ -1,2 +1,3 @@
 # Control-Panel
-This project for internship with Smart Method company
+This project was a part of the Smart Methods internship.
+The aim of the website is to build a control panel for robots.
