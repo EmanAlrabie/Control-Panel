@@ -1,2 +1,2 @@
 # Control-Panel
-This project for internship in Smart Method company
+This project for internship with Smart Method company
